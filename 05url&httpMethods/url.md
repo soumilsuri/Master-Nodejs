@@ -33,10 +33,17 @@
 - Example:
   ```text
   https://example.com/products?category=electronics&price_range=500-1000
+  
 category=electronics: Filters the products by category.
+
 price_range=500-1000: Restricts the price range to 500-1000 units.
+
 Example URL Breakdown
+
 URL: https://api.example.com/users/123?active=true&role=admin
+
 Base URL: https://api.example.com
+
 Endpoint: /users/123
+
 Query Parameters: ?active=true&role=admin
