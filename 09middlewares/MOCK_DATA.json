@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Barb",
+    "last_name": "Izod",
+    "email": "bizod0@cocolog-nifty.com",
+    "role": "Construction Worker",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Lauralee",
+    "last_name": "Klousner",
+    "email": "lklousner1@reuters.com",
+    "role": "Surveyor",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Nathalia",
+    "last_name": "Erdely",
+    "email": "nerdely2@sitemeter.com",
+    "role": "Architect",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Janie",
+    "last_name": "Kettell",
+    "email": "jkettell3@posterous.com",
+    "role": "admin",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Bobby",
+    "last_name": "Pether",
+    "email": "bpether4@g.co",
+    "role": "Estimator",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Crawford",
+    "last_name": "Harrowsmith",
+    "email": "charrowsmith5@deviantart.com",
+    "role": "Estimator",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Rand",
+    "last_name": "Drivers",
+    "email": "rdrivers6@ox.ac.uk",
+    "role": "Surveyor",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Fonsie",
+    "last_name": "Nelius",
+    "email": "fnelius7@wired.com",
+    "role": "Architect",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Sherie",
+    "last_name": "Cleminshaw",
+    "email": "scleminshaw8@myspace.com",
+    "role": "Construction Expeditor",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Hillyer",
+    "last_name": "Castri",
+    "email": "hcastri9@time.com",
+    "role": "Estimator",
+    "gender": "Female"
+  }
+]
