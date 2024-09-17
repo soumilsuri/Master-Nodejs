@@ -11,7 +11,7 @@ Middleware functions are functions that have access to the **request object (`re
 
 Middleware acts as a bridge between the client and server, and it plays an essential role in structuring complex applications.
 
-![Middleware Flow](09middlewares/assets/Screenshot%202024-09-14%20212818.png)
+![Middleware Flow](assets/Screenshot%202024-09-14%20212818.png)
 
 ### Multiple Middlewares in Express
 
