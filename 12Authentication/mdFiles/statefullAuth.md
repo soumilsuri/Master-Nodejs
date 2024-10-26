@@ -42,7 +42,7 @@ Middleware in Node.js helps with checking if the user is authenticated before al
 
 Below is the diagram representing how middleware checks for authentication:
 
-![expressFlow](assets\expressFlow.png)
+![expressFlow](../assets/expressFlow.png)
 
 ### Code Example for Authentication Middleware
 
